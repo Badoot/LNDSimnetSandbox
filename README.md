@@ -1,4 +1,4 @@
-# lnd-simnet-sandbox
+# LND Simnet Sandbox
 
   Lightning Network Daemon Simnet Sandbox
 
